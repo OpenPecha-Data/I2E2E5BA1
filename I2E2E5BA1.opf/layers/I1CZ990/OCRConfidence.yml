@@ -1,0 +1,90 @@
+id: f4cf0f65557d48f3ade139fd2ecd5bfb
+annotation_type: OCRConfidence
+revision: '00001'
+annotations:
+  cfce4658fe8c4f038099b48c5848ccd5:
+    span:
+      start: 3
+      end: 4
+    confidence: 0.5699999928474426
+  12960ce3e7e34ce9a0458d8be05a4b40:
+    span:
+      start: 128
+      end: 129
+    confidence: 0.7400000095367432
+  8c8ae3fee4a24f3cb47fd05573b65874:
+    span:
+      start: 130
+      end: 137
+    confidence: 0.75
+  7d7687c9accf41989f2d089ac19c102a:
+    span:
+      start: 155
+      end: 157
+    confidence: 0.7200000286102295
+  ce74af39b01142c0a79d2c58dce19d51:
+    span:
+      start: 550
+      end: 551
+    confidence: 0.3199999928474426
+  547a90182d51451abdb37b4ba5dd5013:
+    span:
+      start: 787
+      end: 892
+    confidence: 0.4531818198209459
+    nb_below_threshold: 5
+  e6f8aceb0acc4620a96a7084f70ff854:
+    span:
+      start: 893
+      end: 1954
+    confidence: 0.5503361333130288
+    nb_below_threshold: 28
+  273060fd0e5349709f22037876a9d6c1:
+    span:
+      start: 1955
+      end: 2890
+    confidence: 0.43923664070267715
+    nb_below_threshold: 44
+  1022341eb48d4d7aa0713c5041f7c160:
+    span:
+      start: 2891
+      end: 4020
+    confidence: 0.5185314667235305
+    nb_below_threshold: 67
+  7e98cb10d4344e7eb53101508f27d3c8:
+    span:
+      start: 4021
+      end: 5238
+    confidence: 0.4925925923212443
+    nb_below_threshold: 85
+  9b3a571239424417aae891aabbc778a4:
+    span:
+      start: 5239
+      end: 6451
+    confidence: 0.539347826273761
+    nb_below_threshold: 106
+  b1fa75d476b04bdab86ad490ca6fa811:
+    span:
+      start: 6452
+      end: 7504
+    confidence: 0.4891044768824506
+    nb_below_threshold: 131
+  3e1cea59f4014fc0a4f9d4441b7c52d0:
+    span:
+      start: 7505
+      end: 8588
+    confidence: 0.46886524811704106
+    nb_below_threshold: 153
+  3d3a3cea13b9412281aca9f003643ff6:
+    span:
+      start: 8589
+      end: 9694
+    confidence: 0.5947916668632792
+    nb_below_threshold: 177
+  2fe140f9fb734e5ba098d0bb554973df:
+    span:
+      start: 9695
+      end: 9698
+    confidence: 0.9599999785423279
+    nb_below_threshold: 177
+confidence_threshold: 0.8
